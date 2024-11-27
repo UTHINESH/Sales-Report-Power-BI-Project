@@ -1,13 +1,11 @@
-#### Sales Report Power BI Project
-## Overview
+Sales Report Power BI Project
+Overview
 This Power BI project provides a comprehensive sales report, offering insights into sales performance across various categories, products, customers, and geographic locations. The report is designed to help business stakeholders make informed decisions by analyzing sales trends, identifying areas of improvement, and optimizing sales strategies.
 
-## File Structure
-
+File Structure
 MultipleFiles/Sales Report.pdf: The Power BI report file containing all the visualizations and data.
 README.md: This file, providing an overview of the project and its contents.
-
-# Report Contents
+Report Contents
 The sales report is divided into several sections, each providing a unique perspective on sales performance:
 
 Sales Overview
@@ -44,4 +42,3 @@ Contributions are welcome! If you'd like to improve the report or add new featur
 
 Acknowledgments
 This project was created using Power BI and is inspired by various sales report templates available online.
-
